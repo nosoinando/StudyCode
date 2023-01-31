@@ -1,0 +1,12 @@
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\bin\Debug\net6.0\MyClasses.deps.json
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\bin\Debug\net6.0\MyClasses.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\bin\Debug\net6.0\MyClasses.pdb
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\obj\Debug\net6.0\MyClasses.csproj.AssemblyReference.cache
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\obj\Debug\net6.0\MyClasses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\obj\Debug\net6.0\MyClasses.AssemblyInfoInputs.cache
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\obj\Debug\net6.0\MyClasses.AssemblyInfo.cs
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\obj\Debug\net6.0\MyClasses.csproj.CoreCompileInputs.cache
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\obj\Debug\net6.0\MyClasses.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\obj\Debug\net6.0\refint\MyClasses.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\obj\Debug\net6.0\MyClasses.pdb
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClasses\obj\Debug\net6.0\ref\MyClasses.dll
