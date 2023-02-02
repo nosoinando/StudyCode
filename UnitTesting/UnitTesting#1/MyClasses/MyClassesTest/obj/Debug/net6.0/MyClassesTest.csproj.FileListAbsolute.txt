@@ -1,10 +1,6 @@
 F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\CoverletSourceRootsMapping
 F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\testhost.dll
 F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\testhost.exe
-F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
-F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
-F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -104,3 +100,13 @@ F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTes
 F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\obj\Debug\net6.0\MyClassesTest.pdb
 F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\obj\Debug\net6.0\MyClassesTest.genruntimeconfig.cache
 F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\obj\Debug\net6.0\ref\MyClassesTest.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Dev\Projects\PluralsightCode\UnitTesting\UnitTesting#1\MyClasses\MyClassesTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

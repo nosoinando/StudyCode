@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "GFjYu6Vq0RyGPD4xaAaMMnv1+TMt5ck7KVjGMvhVFcFzRm3x9E7ddI9PIVtSxvyDwPgZEPNDEn5MHKOlLmZarg==",
+  "dgSpecHash": "Jz4P8mNMsyZ+7vHdDShQSUQtNfm7lb2zFcVwPwYyqxjd0jvA6fV8D1/LN4k93Il7KZhrmMYQK3lJvxZf1jkq2A==",
   "success": true,
   "projectFilePath": "F:\\Dev\\Projects\\PluralsightCode\\UnitTesting\\UnitTesting#1\\MyClasses\\MyClasses\\MyClasses.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
